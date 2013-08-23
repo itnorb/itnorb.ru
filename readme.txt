@@ -1,0 +1,1 @@
+This is a client for my personal site www.itnorb.ru
